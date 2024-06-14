@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "370303622091",
+    "firebase_url": "https://productosmercado-e2afb-default-rtdb.firebaseio.com",
+    "project_id": "productosmercado-e2afb",
+    "storage_bucket": "productosmercado-e2afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370303622091:android:02df0cf2cbcfc3847ff44e",
+        "android_client_info": {
+          "package_name": "com.cesarroauni.ProductosMercado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1F_G5L88G2P0C8wJyJGKBB-RNAwitqx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
